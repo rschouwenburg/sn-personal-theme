@@ -2,6 +2,12 @@
     opacity: 0;
 }
 
+.editor-content .editable, #editor-content .editable {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 :root {
 
     --sn-stylekit-base-font-size: 12px;
