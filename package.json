@@ -1,0 +1,12 @@
+{
+  "name": "sn-personal-theme",
+  "version": "1.0.0",
+  "main": "theme.css",
+  "sn": {
+    "main": "theme.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rschouwenburg/sn-personal-theme.git"
+  }
+}

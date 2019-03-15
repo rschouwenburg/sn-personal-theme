@@ -1,0 +1,3 @@
+#editor-title-bar #save-status .desc, #editor-title-bar #save-status .message:not(.warning):not(.danger) {
+    opacity: 0;
+}
