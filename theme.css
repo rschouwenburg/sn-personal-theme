@@ -15,3 +15,7 @@
     --sn-stylekit-info-color: #057aff;
 
 }
+
+#editor-title-bar {
+    padding-top: 40px;
+}
