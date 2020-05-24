@@ -19,3 +19,15 @@
 #editor-title-bar.section-title-bar {
     padding-top: 40px;
 }
+
+#footer-bar .left .sk-app-bar-item a {
+    display: none;
+}
+
+#footer-bar .right .sk-app-bar-item {
+    display: none;
+}
+
+#footer-bar .right #lock-item.sk-app-bar-item {
+    display: block;
+}
