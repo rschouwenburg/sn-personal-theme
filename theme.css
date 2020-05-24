@@ -29,5 +29,5 @@
 }
 
 #footer-bar .right #lock-item.sk-app-bar-item {
-    display: block;
+    display: flex;
 }
