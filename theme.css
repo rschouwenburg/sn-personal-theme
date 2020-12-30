@@ -2,6 +2,14 @@
     opacity: 0;
 }
 
+#editor-column .sn-component .sk-app-bar {
+    position: absolute;
+}
+
+#editor-title-bar {
+    height: 90px;
+}
+
 .editor-content, #editor-content {
     background-color: #DDD;
 }
@@ -21,7 +29,7 @@
 }
 
 #editor-title-bar.section-title-bar {
-    padding-top: 40px;
+    height: 90px;
 }
 
 #footer-bar .left .sk-app-bar-item a {
