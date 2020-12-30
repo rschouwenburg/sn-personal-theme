@@ -2,7 +2,7 @@
     opacity: 0;
 }
 
-#editor-column .sn-component .sk-app-bar {
+#editor-column .sn-component .sk-app-bar:not(#editor-menu-bar) {
     position: absolute;
 }
 
