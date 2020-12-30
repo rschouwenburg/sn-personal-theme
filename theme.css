@@ -2,18 +2,22 @@
     opacity: 0;
 }
 
+.editor-content, #editor-content {
+    background-color: #DDD;
+}
+
 .editor-content .editable, #editor-content .editable {
-    max-width: 700px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 :root {
-
     --sn-stylekit-base-font-size: 12px;
     --sn-stylekit-foreground-color: #333333;
     --sn-stylekit-info-color: #057aff;
-
 }
 
 #editor-title-bar.section-title-bar {
