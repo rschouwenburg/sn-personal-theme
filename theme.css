@@ -6,10 +6,6 @@
     position: absolute;
 }
 
-#editor-title-bar {
-    height: 90px;
-}
-
 .editor-content, #editor-content {
     background-color: #DDD;
 }
@@ -29,10 +25,11 @@
 }
 
 #editor-title-bar.section-title-bar {
+    padding-top: 44px;
     height: 90px;
 }
 
-#footer-bar .left .sk-app-bar-item a {
+#footer-bar > .left .sk-app-bar-item a {
     display: none;
 }
 
