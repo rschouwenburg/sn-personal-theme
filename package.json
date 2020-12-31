@@ -1,6 +1,6 @@
 {
   "name": "sn-personal-theme",
-  "version": "1.13",
+  "version": "1.0.13",
   "main": "theme.css",
   "sn": {
     "main": "theme.css"
