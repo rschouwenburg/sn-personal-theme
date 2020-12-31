@@ -10,6 +10,10 @@
     background-color: #DDD;
 }
 
+#editor-title-bar {
+    height: 90px;
+}
+
 .editor-content .editable, #editor-content .editable {
     max-width: 800px;
     margin-left: auto;
@@ -24,7 +28,7 @@
     --sn-stylekit-info-color: #057aff;
 }
 
-#editor-title-bar.section-title-bar {
+#editor-title-bar {
     padding-top: 44px;
     height: 90px;
 }
