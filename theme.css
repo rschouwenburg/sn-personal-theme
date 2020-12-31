@@ -29,7 +29,7 @@
     height: 90px;
 }
 
-#footer-bar .left .sk-app-bar-item a.title {
+#footer-bar .left .sk-app-bar-item .title {
     display: none;
 }
 
